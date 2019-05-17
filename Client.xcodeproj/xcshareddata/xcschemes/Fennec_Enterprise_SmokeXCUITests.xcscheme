@@ -317,7 +317,13 @@
                   Identifier = "DragAndDropTestIpad">
                </Test>
                <Test
-                  Identifier = "DragAndDropTests">
+                  Identifier = "DragAndDropTests/testRearrangeMoreThan3TabsTabTray()">
+               </Test>
+               <Test
+                  Identifier = "DragAndDropTests/testRearrangeTabsPrivateModeTabTray()">
+               </Test>
+               <Test
+                  Identifier = "DragAndDropTests/testRearrangeTabsTabTrayLandscape()">
                </Test>
                <Test
                   Identifier = "FindInPageTests/testBarDissapearsWhenOpeningTabsTray()">
